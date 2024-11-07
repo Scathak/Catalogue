@@ -12,9 +12,6 @@ import oriAnimal6 from './assets/Ori-animal-06.png';
 import oriAnimal7 from './assets/Ori-animal-07.png';
 import oriStarl   from './assets/Ori-star-01.png';
 
-import jsxImg from './assets/jsx-ui.png';
-import stateImg from './assets/state-mgmt.png';
-
 export const CORE_CONCEPTS = [
   {
     image: oriFlower1,
